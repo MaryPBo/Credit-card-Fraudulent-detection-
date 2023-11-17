@@ -19,7 +19,7 @@ import seaborn as sns
 
 # Load the dataset
 file_path = 'path_to_your_file/creditcard.csv'  # Replace with your file path
-data = pd.read_csv('/content/archive (12).zip')
+data = pd.read_csv('/content/archive (21).zip')
 # Data Exploration
 print("Data shape:", data.shape)
 print("Data types:\n", data.dtypes)
